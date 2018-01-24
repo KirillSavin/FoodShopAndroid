@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopper App</string>
+    <string name="slogan">Shopping on The Go</string>
+
+    <string name="about_text">E-Commerce aplication template with material design.
+        \n\nImage source :
+        \n<a href="www.pexels.com">www.pexels.com</a>
+        \n<a href="www.pixabay.com">www.pixabay.com</a>
+    </string>
+
+    <!--string drawer menu-->
+    <string name="menu_cart">Cart</string>
+    <string name="menu_new">New Items</string>
+    <string name="menu_promotions">Promotions</string>
+
+    <string name="menu_clothing">Clothing</string>
+    <string name="menu_shoes">Shoes</string>
+    <string name="menu_watches">Watches</string>
+    <string name="menu_accessories">Accessories</string>
+    <string name="menu_bags">Bags</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!--exit notification-->
+    <string name="press_again_exit_app">Press again to exit</string>
+
+    <string name="title_activity_activity_login">Login</string>
+
+    <!-- Strings related to login and registration -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_country">Country</string>
+    <string name="hint_city">City</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_reset">Reset</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="err_msg_country">Enter the country</string>
+    <string name="err_msg_city">Enter the city</string>
+    <string name="inv_msg_password">Minimum length 5</string>
+    <string name="hint_name">Full Name</string>
+    <string name="btn_sign_up">REGISTER</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="title_activity_login">Sign in</string>
+
+</resources>
